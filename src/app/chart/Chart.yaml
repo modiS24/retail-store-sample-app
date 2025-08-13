@@ -23,4 +23,4 @@ dependencies:
   - name: retail-store-sample-ui-chart
     alias: ui
     version: 1.2.2
-    repository: file://../../ui/chart
+    repository: file://../../ui/chartz
